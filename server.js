@@ -125,11 +125,49 @@ const server = http.createServer(app);
 // Initialize WebSocket Service
 const webSocketService = new WebSocketService(server);
 
-// Enhanced error handling
-process.on('unhandledRejection', (reason, promise) => {
-    console.error('Unhandled Rejection at:', promise, 'reason:', reason);
-    // Optional: Implement logging or crash reporting
+// Enhanced Error Logging and Handling
+process.on('uncaughtException', (error) => {
+    console.error('❌ UNCAUGHT EXCEPTION: ', error);
+    console.error('Error Name:', error.name);
+    console.error('Error Message:', error.message);
+    console.error('Error Stack:', error.stack);
+    
+    // Optional: Send error to logging service
+    process.exit(1);
 });
+
+process.on('unhandledRejection', (reason, promise) => {
+    console.error('❌ UNHANDLED REJECTION at:', promise);
+    console.error('Reason:', reason);
+    
+    // Optional: Send error to logging service
+    process.exit(1);
+});
+
+// Validate Critical Environment Variables
+const validateEnv = () => {
+    const requiredEnvVars = [
+        'MONGO_URI', 
+        'JWT_SECRET', 
+        'PORT', 
+        'FRONTEND_URL'
+    ];
+
+    requiredEnvVars.forEach(varName => {
+        if (!process.env[varName]) {
+            console.error(`❌ CRITICAL: ${varName} environment variable is not set`);
+            process.exit(1);
+        }
+    });
+
+    console.log('✅ All critical environment variables are set');
+};
+
+// Call validation before starting server
+validateEnv();
+
+// Enhanced error handling
+process.on('unhandledRejection', handleUnhandledRejections);
 
 process.on('uncaughtException', handleUncaughtExceptions);
 

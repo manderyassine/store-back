@@ -4,7 +4,7 @@
   "description": "Backend for E-Commerce Platform",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node --trace-warnings server.js",
     "dev": "nodemon server.js",
     "debug": "nodemon --inspect server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
