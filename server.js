@@ -3,7 +3,6 @@ const dotenv = require('dotenv');
 const cors = require('cors');
 const http = require('http');
 const mongoose = require('mongoose');
-const connectDB = require('./config/db');
 const WebSocketService = require('./services/webSocketService');
 
 const { 
@@ -16,7 +15,31 @@ const {
 // Load environment variables
 dotenv.config();
 
-// Connect to database
+// MongoDB Connection with Enhanced Logging
+const connectDB = async () => {
+    try {
+        console.log('Attempting to connect to MongoDB...');
+        console.log('MongoDB URI:', process.env.MONGO_URI);
+        
+        // Validate MongoDB URI
+        if (!process.env.MONGO_URI) {
+            throw new Error('MONGO_URI environment variable is not set');
+        }
+
+        await mongoose.connect(process.env.MONGO_URI, {
+            useNewUrlParser: true,
+            useUnifiedTopology: true,
+        });
+        
+        console.log('✅ MongoDB Connected Successfully');
+    } catch (error) {
+        console.error('❌ MongoDB Connection Error:', error);
+        // Exit process with failure
+        process.exit(1);
+    }
+};
+
+// Call connect DB function
 connectDB();
 
 const app = express();

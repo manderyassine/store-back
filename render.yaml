@@ -1,24 +1,21 @@
 services:
   - type: web
-    name: ecommerce-backend
+    name: store-back
     env: node
     region: oregon
     buildCommand: npm install
     startCommand: npm start
     envVars:
       - key: MONGO_URI
-        fromService:
-          name: ecommerce-mongodb
-          type: pserv
-          property: connectionString
+        sync: false
+      - key: PORT
+        value: 10000
       - key: JWT_SECRET
         generateValue: true
       - key: NODE_ENV
         value: production
       - key: FRONTEND_URL
-        value: https://your-frontend-app-name.onrender.com
-      - key: PORT
-        value: 10000
+        value: https://store-front.onrender.com
 
   - type: pserv
     name: ecommerce-mongodb
