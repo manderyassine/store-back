@@ -1,0 +1,660 @@
+2024-12-11 21:32:57:3257 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-11 21:33:59:3359 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-11 21:46:38:4638 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 10:24:31:2431 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 10:38:27:3827 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 10:39:54:3954 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 10:44:13:4413 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 10:55:14:5514 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 10:58:51:5851 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 10:58:51:5851 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 11:00:59:059 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 11:01:34:134 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 11:01:34:134 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 11:01:35:135 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 11:03:22:322 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 11:06:06:66 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 11:08:40:840 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 11:08:45:845 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 11:09:21:921 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 11:11:21:1121 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 11:14:06:146 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 11:14:22:1422 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 11:16:22:1622 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 11:18:40:1840 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 11:18:53:1853 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 11:19:21:1921 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 11:20:12:2012 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 11:20:57:2057 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 11:22:50:2250 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 11:23:17:2317 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 11:23:33:2333 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 11:24:02:242 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m
+2024-12-12 11:27:07:277 [31merror[39m: [31muncaughtException: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31mError: Cannot find module 'express-async-handler'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\routes\productRoutes.js[39m
+[31m- C:\Users\yassi\CascadeProjects\ecommerce-app\backend\server.js[39m
+[31m    at Module._resolveFilename (node:internal/modules/cjs/loader:1248:15)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:1074:27)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:315:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1339:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (C:\Users\yassi\CascadeProjects\ecommerce-app\backend\controllers\productController.js:1:22)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1546:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1317:32)[39m

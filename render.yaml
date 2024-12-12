@@ -1,0 +1,28 @@
+services:
+  - type: web
+    name: ecommerce-backend
+    env: node
+    region: oregon
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: MONGO_URI
+        fromService:
+          name: ecommerce-mongodb
+          type: pserv
+          property: connectionString
+      - key: JWT_SECRET
+        generateValue: true
+      - key: NODE_ENV
+        value: production
+      - key: FRONTEND_URL
+        value: https://your-frontend-app-name.onrender.com
+      - key: PORT
+        value: 10000
+
+  - type: pserv
+    name: ecommerce-mongodb
+    env: docker
+    region: oregon
+    plan: free
+    ipAllowList: []
